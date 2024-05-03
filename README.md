@@ -19,7 +19,7 @@ This Python script performs a security scan on a WordPress website to check for 
 ### Setup
 1. Clone the repository or download the script to your local machine:
    ```bash
-   git clone https://github.com/yourusername/wordpress-security-scanner.git
+   git clone https://github.com/nabilmursi/wordpress-scan.git
    cd wordpress-security-scanner
 
 2. Install required Python libraries:
